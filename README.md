@@ -12,7 +12,9 @@ O projeto está estruturado de forma a permitir operações básicas CRUD de um 
 
 ## Manual do usuário:
 Ao acessar o site, o usuário é direcionado a página de login, onde ele pode acessar sua conta, se tiver, com username e senha ou caso ele não tenha, tem o botão "Cadastre-se" que o leva para a página de cadastro, onde ele cria seu username e senha. 
+
 Após criar sua conta, ele deve clicar em login, onde ele vai para a página de login, e realizá-lo. Ao acessar sua conta, o usuário vai ser redirecionado a página com uma lista dos artigos, onde ele possui as opções de criar um novo artigo, clicando em "Insert Article", que vai liberar um formulário no canto inferior da tela, onde ele pode dar o título e a descrição do artigo.
+
 O usuário também pode modificar um artigo, clicando em "Update", que vai gerar o formulário com os campos de título e descrição para ele atualizar, o usuário também pode deletar os artigos, utilizando o botão "Delete" e ele
 também pode sair utilizando "Logout" no canto superior direito da tela, sendo levado a tela de login.
 
