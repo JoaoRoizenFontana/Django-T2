@@ -1,4 +1,4 @@
-# Django site de receitas com backend e frontend separados
+# Django site de artigos com backend e frontend separados
 Link para o site: http://font.pythonanywhere.com/
 
 ## Autor:
