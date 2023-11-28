@@ -1,10 +1,13 @@
-# Django site de artigos com backend e frontend separados
+## Django site de artigos com backend e frontend separados
 
-#Link para o site(frontend): https://kaleidoscopic-quokka-1f2548.netlify.app/
-#Link para o site(backend): https://fontzada.pythonanywhere.com/
+Link para o site(frontend): https://kaleidoscopic-quokka-1f2548.netlify.app/
 
-#Admin: 
+Link para o site(backend): https://fontzada.pythonanywhere.com/
+
+Admin: 
+
 login: joao
+
 senha: 3124
 
 ## Autor:
